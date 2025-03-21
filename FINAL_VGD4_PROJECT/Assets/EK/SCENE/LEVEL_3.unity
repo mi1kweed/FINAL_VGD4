@@ -2771,7 +2771,7 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
-  m_UseSpriteMesh: 0
+  m_UseSpriteMesh: 1
   m_PixelsPerUnitMultiplier: 1
 --- !u!222 &535816974
 CanvasRenderer:
@@ -2870,6 +2870,29 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 8864279205477198258}
   m_PrefabAsset: {fileID: 0}
+--- !u!136 &575903974
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 152201579}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.53
+  m_Height: 1.38
+  m_Direction: 1
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &605025596
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9828,6 +9851,7 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"currentPointNumber","value":{"$content":0,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"Player","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
       UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"marthaHealth","value":{"$content":20,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"damage","value":{"$content":5,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 2003832497}
@@ -13075,13 +13099,28 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4776197174556937226, guid: 0ad7e2034ce09d94aa1e1317cc74b36d,
         type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.54922
+      objectReference: {fileID: 0}
+    - target: {fileID: 4776197174556937226, guid: 0ad7e2034ce09d94aa1e1317cc74b36d,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.54922
+      objectReference: {fileID: 0}
+    - target: {fileID: 4776197174556937226, guid: 0ad7e2034ce09d94aa1e1317cc74b36d,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.54922
+      objectReference: {fileID: 0}
+    - target: {fileID: 4776197174556937226, guid: 0ad7e2034ce09d94aa1e1317cc74b36d,
+        type: 3}
       propertyPath: m_LocalPosition.x
       value: -16.7
       objectReference: {fileID: 0}
     - target: {fileID: 4776197174556937226, guid: 0ad7e2034ce09d94aa1e1317cc74b36d,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.49
+      value: 1.081
       objectReference: {fileID: 0}
     - target: {fileID: 4776197174556937226, guid: 0ad7e2034ce09d94aa1e1317cc74b36d,
         type: 3}
@@ -13634,9 +13673,9 @@ PrefabInstance:
       propertyPath: _data._json
       value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"playerSpeed","value":{"$content":10,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"attackPoint","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"playerHealth","value":{"$content":30,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"playerHealthUI","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"playerHealth","value":{"$content":100,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"playerHealthUI","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.UI.Image,
+        UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 519997772640327343, guid: 68e39005dc85f7544bbc122b661d8422,
         type: 3}
@@ -13647,11 +13686,31 @@ PrefabInstance:
         type: 3}
       propertyPath: _data._objectReferences.Array.data[1]
       value: 
-      objectReference: {fileID: 535816971}
+      objectReference: {fileID: 535816973}
     - target: {fileID: 576857010499154221, guid: 68e39005dc85f7544bbc122b661d8422,
         type: 3}
       propertyPath: m_Name
       value: Player Controller_level3
+      objectReference: {fileID: 0}
+    - target: {fileID: 576857010499154221, guid: 68e39005dc85f7544bbc122b661d8422,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 907226591062105446, guid: 68e39005dc85f7544bbc122b661d8422,
+        type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2074535090148181402, guid: 68e39005dc85f7544bbc122b661d8422,
+        type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2118765785977239244, guid: 68e39005dc85f7544bbc122b661d8422,
+        type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5809872380077608897, guid: 68e39005dc85f7544bbc122b661d8422,
         type: 3}
@@ -13712,7 +13771,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 576857010499154221, guid: 68e39005dc85f7544bbc122b661d8422,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 575903974}
   m_SourcePrefab: {fileID: 100100000, guid: 68e39005dc85f7544bbc122b661d8422, type: 3}
 --- !u!4 &9181263257334965539 stripped
 Transform:
