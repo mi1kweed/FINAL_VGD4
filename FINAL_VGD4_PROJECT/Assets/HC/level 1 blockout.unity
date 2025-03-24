@@ -133,27 +133,27 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ff129bef2cc545e4caf55b9fc7a765af,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.4216322
+      value: 0.36737907
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ff129bef2cc545e4caf55b9fc7a765af,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.4216322
+      value: 0.36737907
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ff129bef2cc545e4caf55b9fc7a765af,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 0.4216322
+      value: 0.36737907
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ff129bef2cc545e4caf55b9fc7a765af,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 30.27
+      value: 32.35
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ff129bef2cc545e4caf55b9fc7a765af,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 11.09
+      value: 9.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ff129bef2cc545e4caf55b9fc7a765af,
         type: 3}
@@ -446,7 +446,7 @@ GameObject:
   - component: {fileID: 805255732871397147}
   - component: {fileID: 6682040915415852661}
   m_Layer: 0
-  m_Name: Player Controller Variant 1
+  m_Name: HC Player Controller Variant
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -466,8 +466,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"playerSpeed","value":{"$content":10,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
-      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences: []
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"attackPoint","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences:
+    - {fileID: 1211901811737259054}
 --- !u!4 &848785048670187112
 Transform:
   m_ObjectHideFlags: 0
@@ -493,7 +495,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7217127839461630200}
   m_Layer: 0
-  m_Name: attackPoint
+  m_Name: HCattackPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -655,7 +657,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: e22fd31ec8fc07a46b58f37110ad3a28, type: 2}
+    - {fileID: 11400000, guid: b10b373b5fb6eee41908abb440107cbc, type: 2}
 --- !u!54 &6954392553882686137
 Rigidbody:
   m_ObjectHideFlags: 0
