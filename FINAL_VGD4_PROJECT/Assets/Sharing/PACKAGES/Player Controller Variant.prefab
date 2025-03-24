@@ -63,7 +63,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player Controller Variant
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2126548928895421865, guid: 668df4f820a072145bebd21a53e884da, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []

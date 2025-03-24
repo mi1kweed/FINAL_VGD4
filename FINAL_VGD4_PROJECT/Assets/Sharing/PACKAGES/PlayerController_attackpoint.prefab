@@ -11,7 +11,7 @@ PrefabInstance:
     - target: {fileID: 295786837776697333, guid: 3023406e3171de041a7d77cc90ad58d3,
         type: 3}
       propertyPath: m_Name
-      value: Player Controller_level3 Variant
+      value: PlayerController_attackpoint
       objectReference: {fileID: 0}
     - target: {fileID: 295786837776697333, guid: 3023406e3171de041a7d77cc90ad58d3,
         type: 3}
@@ -85,7 +85,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 805255733626855543, guid: 3023406e3171de041a7d77cc90ad58d3, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
