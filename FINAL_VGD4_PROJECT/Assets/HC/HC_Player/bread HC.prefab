@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 2803559791828774359}
   - component: {fileID: 7097033078986351472}
   m_Layer: 0
-  m_Name: bread 1
+  m_Name: bread HC
   m_TagString: BREAD
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
