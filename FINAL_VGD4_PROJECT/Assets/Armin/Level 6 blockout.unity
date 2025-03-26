@@ -258,74 +258,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d5683144791fd1e43bb5144365f866f3, type: 3}
---- !u!1001 &146075804
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -1397.1606
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -164.81107
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071067
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 9073822063223429358, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_Name
-      value: Brooklyn Bridge (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 450533c2002fec145a6c37f68d75a542, type: 3}
 --- !u!1001 &155592180
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -648,74 +580,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 95a1cc39c12201741818239bd5d3dec9, type: 3}
---- !u!1001 &635386705
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -1397.1606
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -164.81107
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071067
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 9073822063223429358, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_Name
-      value: Brooklyn Bridge (5)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 450533c2002fec145a6c37f68d75a542, type: 3}
 --- !u!1001 &652297876
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -852,142 +716,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 19da87c3bb996bc42830c4a09d08ffcc, type: 3}
---- !u!1001 &786388999
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -1397.1606
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -164.81107
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071067
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 9073822063223429358, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_Name
-      value: Brooklyn Bridge (2)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 450533c2002fec145a6c37f68d75a542, type: 3}
---- !u!1001 &831829096
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -1397.1606
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -164.81107
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071067
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 9073822063223429358, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_Name
-      value: Brooklyn Bridge (4)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 450533c2002fec145a6c37f68d75a542, type: 3}
 --- !u!1001 &841061390
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1192,74 +920,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 760652dc89641814c85a24528f5bc98b, type: 3}
---- !u!1001 &902731257
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -1397.1606
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -164.81107
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071067
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8549909877587739220, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 9073822063223429358, guid: 450533c2002fec145a6c37f68d75a542,
-        type: 3}
-      propertyPath: m_Name
-      value: Brooklyn Bridge (3)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 450533c2002fec145a6c37f68d75a542, type: 3}
 --- !u!1001 &919672736
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1637,7 +1297,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -2022,7 +1682,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -2749,11 +2409,6 @@ SceneRoots:
   - {fileID: 221327686}
   - {fileID: 1947313419}
   - {fileID: 155592180}
-  - {fileID: 902731257}
-  - {fileID: 786388999}
-  - {fileID: 831829096}
-  - {fileID: 146075804}
-  - {fileID: 635386705}
   - {fileID: 1252718125}
   - {fileID: 17869274}
   - {fileID: 1501847}
