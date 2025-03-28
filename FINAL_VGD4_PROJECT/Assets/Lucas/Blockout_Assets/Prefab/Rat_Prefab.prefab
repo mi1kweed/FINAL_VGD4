@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7911978338829566973}
   - component: {fileID: 3510585125154750071}
   - component: {fileID: -6731808647428482103}
+  - component: {fileID: -7209379139894410353}
   m_Layer: 0
   m_Name: Rat_Prefab
   m_TagString: Untagged
@@ -107,6 +108,28 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!195 &-7209379139894410353
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1716844812515983238}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.119603395
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 0.2081171
+  m_BaseOffset: 0.10405855
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
 --- !u!1001 &3203630291997594087
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -123,7 +146,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 7b63561833b3ba14fad0670b0c1f933b,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.122
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7b63561833b3ba14fad0670b0c1f933b,
         type: 3}
