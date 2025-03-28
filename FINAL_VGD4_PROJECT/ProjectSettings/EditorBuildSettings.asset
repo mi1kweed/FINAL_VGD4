@@ -9,6 +9,24 @@ EditorBuildSettings:
     path: Assets/Ken/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
+    path: Assets/EK/SCENE/TitleScreen.unity
+    guid: 41b71f07234b3a144a75ee83093a6f2a
+  - enabled: 1
     path: Assets/EK/SCENE/LEVEL_3.unity
     guid: c0390c5a79faeec459eb996f1e257d2e
+  - enabled: 1
+    path: Assets/HC/level 1 blockout.unity
+    guid: 3e7273dec10ec5145ba64c9d168bcbb3
+  - enabled: 1
+    path: Assets/Ken/Scenes/Level2.unity
+    guid: 94d45a8958074d942a6b11ef0c11971c
+  - enabled: 1
+    path: Assets/Lucas/Level - 5.unity
+    guid: 310f4f401648cac449f99d08c248bbcb
+  - enabled: 1
+    path: Assets/Quintin/Level4.unity
+    guid: c06c283c1f7e07641bdf449581639568
+  - enabled: 1
+    path: Assets/Armin/Level 6 blockout.unity
+    guid: aa662eb254905e54c83e5a36ef56ed52
   m_configObjects: {}
