@@ -15,9 +15,8 @@ GameObject:
   - component: {fileID: -7209379139894410353}
   - component: {fileID: 8952665708928091359}
   - component: {fileID: 3806661275447333835}
-  - component: {fileID: 6506999266715201559}
   m_Layer: 0
-  m_Name: Rat_Prefab
+  m_Name: BigRat
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32,8 +31,8 @@ Transform:
   m_GameObject: {fileID: 1716844812515983238}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.0000000057293, y: -0.028247, z: 0.17795}
-  m_LocalScale: {x: 1.769, y: 1.769, z: 1.769}
+  m_LocalPosition: {x: -0.000000027917, y: -0.2799, z: 1.7633}
+  m_LocalScale: {x: 8.619771, y: 8.619771, z: 8.619771}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 3170302946366715404}
@@ -172,27 +171,6 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: e5de3c51975c4944daf49c9725f7e735, type: 2}
---- !u!65 &6506999266715201559
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1716844812515983238}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.33596537, y: 0.47272962, z: 0.7496409}
-  m_Center: {x: -0.00481337, y: 0.11660469, z: -0.046039548}
 --- !u!1001 &3203630291997594087
 PrefabInstance:
   m_ObjectHideFlags: 0
