@@ -8,6 +8,7 @@ TagManager:
   - bread
   - cheese
   - exitCheck
+  - environment
   layers:
   - Default
   - TransparentFX

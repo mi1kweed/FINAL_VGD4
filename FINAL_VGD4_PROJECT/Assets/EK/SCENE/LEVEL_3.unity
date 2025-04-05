@@ -417,6 +417,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Appartment_V1 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1721957888456078769, guid: da73119ce27fc0746a791c43cd239348,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 5616849767768700465, guid: da73119ce27fc0746a791c43cd239348,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -548,6 +553,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1397216464}
+  - {fileID: 1990292237}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &48723170
@@ -717,6 +723,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: store_fruit (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 9088539097928125895, guid: edb47f5975fa8a64d89d466906efce2f,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -968,6 +979,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Appartment_V2_000 (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 343857917582280403, guid: e58f6c20579c8154889abf08e2ba021c,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 6675167928594116118, guid: e58f6c20579c8154889abf08e2ba021c,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -1203,6 +1219,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Appartment_V2_000 (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 343857917582280403, guid: e58f6c20579c8154889abf08e2ba021c,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 6675167928594116118, guid: e58f6c20579c8154889abf08e2ba021c,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -1341,6 +1362,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: house_1story_001 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8925831991555122645, guid: 97f651e295eb65d41920cd2201aeedcb,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1509,6 +1535,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Appartment_V2_000 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 343857917582280403, guid: e58f6c20579c8154889abf08e2ba021c,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 6675167928594116118, guid: e58f6c20579c8154889abf08e2ba021c,
         type: 3}
@@ -2285,6 +2316,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: resturant (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4990643990626329441, guid: ac5ed87292f08fe40af6399e2a0e3112,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 5623171741968251355, guid: ac5ed87292f08fe40af6399e2a0e3112,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2591,6 +2627,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: house_1story_001 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 8925831991555122645, guid: 97f651e295eb65d41920cd2201aeedcb,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2793,6 +2834,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: store_bakery_000 (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135089137358244498, guid: c1a83233aa830ba4da9c7669e8f299bb,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 8799934190515845546, guid: c1a83233aa830ba4da9c7669e8f299bb,
         type: 3}
@@ -3335,6 +3381,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Appartment_V2_000 (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 343857917582280403, guid: e58f6c20579c8154889abf08e2ba021c,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 6675167928594116118, guid: e58f6c20579c8154889abf08e2ba021c,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -3579,6 +3630,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: store_bakery_000 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135089137358244498, guid: c1a83233aa830ba4da9c7669e8f299bb,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 8799934190515845546, guid: c1a83233aa830ba4da9c7669e8f299bb,
         type: 3}
@@ -4154,6 +4210,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: house_1story_001 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8925831991555122645, guid: 97f651e295eb65d41920cd2201aeedcb,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4793,6 +4854,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Appartment_V2_000 (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 343857917582280403, guid: e58f6c20579c8154889abf08e2ba021c,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 6675167928594116118, guid: e58f6c20579c8154889abf08e2ba021c,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -4881,6 +4947,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Appartment_V2_000 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 343857917582280403, guid: e58f6c20579c8154889abf08e2ba021c,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 6675167928594116118, guid: e58f6c20579c8154889abf08e2ba021c,
         type: 3}
@@ -5111,6 +5182,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: resturant (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 4990643990626329441, guid: ac5ed87292f08fe40af6399e2a0e3112,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 5623171741968251355, guid: ac5ed87292f08fe40af6399e2a0e3112,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -5178,6 +5254,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Appartment_V2_000 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 343857917582280403, guid: e58f6c20579c8154889abf08e2ba021c,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 6675167928594116118, guid: e58f6c20579c8154889abf08e2ba021c,
         type: 3}
@@ -5271,6 +5352,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: store_bakery_000 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135089137358244498, guid: c1a83233aa830ba4da9c7669e8f299bb,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 8799934190515845546, guid: c1a83233aa830ba4da9c7669e8f299bb,
         type: 3}
@@ -5769,6 +5855,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Appartment_V2_000 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 343857917582280403, guid: e58f6c20579c8154889abf08e2ba021c,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 6675167928594116118, guid: e58f6c20579c8154889abf08e2ba021c,
         type: 3}
@@ -6403,6 +6494,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Appartment_V1 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1721957888456078769, guid: da73119ce27fc0746a791c43cd239348,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 5616849767768700465, guid: da73119ce27fc0746a791c43cd239348,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -6491,6 +6587,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: store_bakery_000 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4135089137358244498, guid: c1a83233aa830ba4da9c7669e8f299bb,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 8799934190515845546, guid: c1a83233aa830ba4da9c7669e8f299bb,
         type: 3}
@@ -6733,6 +6834,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: resturant (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 4990643990626329441, guid: ac5ed87292f08fe40af6399e2a0e3112,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 5623171741968251355, guid: ac5ed87292f08fe40af6399e2a0e3112,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6800,6 +6906,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Appartment_V2_000 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 343857917582280403, guid: e58f6c20579c8154889abf08e2ba021c,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 6675167928594116118, guid: e58f6c20579c8154889abf08e2ba021c,
         type: 3}
@@ -7436,6 +7547,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: polySurface024 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 294659960215978243, guid: b5875048e010e0c4a8866bed04de60e0,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 5256467271306142195, guid: b5875048e010e0c4a8866bed04de60e0,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -7571,6 +7687,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Appartment_V1 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1721957888456078769, guid: da73119ce27fc0746a791c43cd239348,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 5616849767768700465, guid: da73119ce27fc0746a791c43cd239348,
         type: 3}
@@ -7842,6 +7963,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: house_1story_001 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8925831991555122645, guid: 97f651e295eb65d41920cd2201aeedcb,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7865,6 +7991,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: resturant (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4990643990626329441, guid: ac5ed87292f08fe40af6399e2a0e3112,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 5623171741968251355, guid: ac5ed87292f08fe40af6399e2a0e3112,
         type: 3}
@@ -7933,6 +8064,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Appartment_V2_000 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 343857917582280403, guid: e58f6c20579c8154889abf08e2ba021c,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 6675167928594116118, guid: e58f6c20579c8154889abf08e2ba021c,
         type: 3}
@@ -8237,6 +8373,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: store_bakery_000 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4135089137358244498, guid: c1a83233aa830ba4da9c7669e8f299bb,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 8799934190515845546, guid: c1a83233aa830ba4da9c7669e8f299bb,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -8316,6 +8457,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: resturant (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4990643990626329441, guid: ac5ed87292f08fe40af6399e2a0e3112,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 5623171741968251355, guid: ac5ed87292f08fe40af6399e2a0e3112,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8383,6 +8529,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Appartment_V1 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1721957888456078769, guid: da73119ce27fc0746a791c43cd239348,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 5616849767768700465, guid: da73119ce27fc0746a791c43cd239348,
         type: 3}
@@ -8742,6 +8893,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Appartment_V2_000 (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 343857917582280403, guid: e58f6c20579c8154889abf08e2ba021c,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 6675167928594116118, guid: e58f6c20579c8154889abf08e2ba021c,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -8892,6 +9048,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Appartment_V2_000 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 343857917582280403, guid: e58f6c20579c8154889abf08e2ba021c,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 6675167928594116118, guid: e58f6c20579c8154889abf08e2ba021c,
         type: 3}
@@ -9772,6 +9933,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Appartment_V2_000 (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 343857917582280403, guid: e58f6c20579c8154889abf08e2ba021c,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 6675167928594116118, guid: e58f6c20579c8154889abf08e2ba021c,
         type: 3}
       propertyPath: m_LocalScale.y
@@ -9850,6 +10016,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Appartment_V2_000 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 343857917582280403, guid: e58f6c20579c8154889abf08e2ba021c,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 6675167928594116118, guid: e58f6c20579c8154889abf08e2ba021c,
         type: 3}
@@ -10186,6 +10357,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: resturant (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4990643990626329441, guid: ac5ed87292f08fe40af6399e2a0e3112,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 5623171741968251355, guid: ac5ed87292f08fe40af6399e2a0e3112,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -10437,6 +10613,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Appartment_V1 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1721957888456078769, guid: da73119ce27fc0746a791c43cd239348,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 5616849767768700465, guid: da73119ce27fc0746a791c43cd239348,
         type: 3}
@@ -10820,6 +11001,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Appartment_V2_000 (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 343857917582280403, guid: e58f6c20579c8154889abf08e2ba021c,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 6675167928594116118, guid: e58f6c20579c8154889abf08e2ba021c,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -11046,6 +11232,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Appartment_V1 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1721957888456078769, guid: da73119ce27fc0746a791c43cd239348,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 5616849767768700465, guid: da73119ce27fc0746a791c43cd239348,
         type: 3}
@@ -12000,6 +12191,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: house_1story_001 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8925831991555122645, guid: 97f651e295eb65d41920cd2201aeedcb,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13199,6 +13395,145 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1990292236
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1990292237}
+  - component: {fileID: 1990292242}
+  - component: {fileID: 1990292241}
+  - component: {fileID: 1990292240}
+  - component: {fileID: 1990292239}
+  - component: {fileID: 1990292238}
+  m_Layer: 0
+  m_Name: wallDetector
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1990292237
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1990292236}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0, z: 5.68}
+  m_LocalScale: {x: 1, y: 1, z: 10.551}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 44974349}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1990292238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1990292236}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2fe5546f775c47d2820aa5e8a715f53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: 74670db3815eee14aab66ab2db14078b, type: 2}
+--- !u!114 &1990292239
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1990292236}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"currentMaterial","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!65 &1990292240
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1990292236}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &1990292241
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1990292236}
+  m_Enabled: 0
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1990292242
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1990292236}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1001 &1993095557
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14045,6 +14380,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Appartment_V2_000 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 343857917582280403, guid: e58f6c20579c8154889abf08e2ba021c,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 6675167928594116118, guid: e58f6c20579c8154889abf08e2ba021c,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -14134,6 +14474,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Appartment_V1 (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1721957888456078769, guid: da73119ce27fc0746a791c43cd239348,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 5616849767768700465, guid: da73119ce27fc0746a791c43cd239348,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -14216,6 +14561,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: polySurface024 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 294659960215978243, guid: b5875048e010e0c4a8866bed04de60e0,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 5256467271306142195, guid: b5875048e010e0c4a8866bed04de60e0,
         type: 3}
@@ -14357,6 +14707,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Appartment_V1 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1721957888456078769, guid: da73119ce27fc0746a791c43cd239348,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 5616849767768700465, guid: da73119ce27fc0746a791c43cd239348,
         type: 3}
@@ -14621,6 +14976,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: house_1story_001
+      objectReference: {fileID: 0}
+    - target: {fileID: 8925831991555122645, guid: 97f651e295eb65d41920cd2201aeedcb,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14957,6 +15317,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Appartment_V2_000
       objectReference: {fileID: 0}
+    - target: {fileID: 343857917582280403, guid: e58f6c20579c8154889abf08e2ba021c,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 6675167928594116118, guid: e58f6c20579c8154889abf08e2ba021c,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15159,6 +15524,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: store_bakery_000
       objectReference: {fileID: 0}
+    - target: {fileID: 4135089137358244498, guid: c1a83233aa830ba4da9c7669e8f299bb,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
+      objectReference: {fileID: 0}
     - target: {fileID: 8799934190515845546, guid: c1a83233aa830ba4da9c7669e8f299bb,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -15308,6 +15678,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: resturant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4990643990626329441, guid: ac5ed87292f08fe40af6399e2a0e3112,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 5623171741968251355, guid: ac5ed87292f08fe40af6399e2a0e3112,
         type: 3}
@@ -15556,6 +15931,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: polySurface024
+      objectReference: {fileID: 0}
+    - target: {fileID: 294659960215978243, guid: b5875048e010e0c4a8866bed04de60e0,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 5256467271306142195, guid: b5875048e010e0c4a8866bed04de60e0,
         type: 3}
@@ -16723,6 +17103,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Appartment_V1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1721957888456078769, guid: da73119ce27fc0746a791c43cd239348,
+        type: 3}
+      propertyPath: m_TagString
+      value: environment
       objectReference: {fileID: 0}
     - target: {fileID: 5616849767768700465, guid: da73119ce27fc0746a791c43cd239348,
         type: 3}
