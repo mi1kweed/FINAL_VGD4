@@ -546,9 +546,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 44974347}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.53802717, y: -0.0000000041652792, z: 0.0000000026586306,
-    w: 0.8429275}
-  m_LocalPosition: {x: 7.95, y: 6.2148304, z: 1.3899996}
+  m_LocalRotation: {x: 0.3952265, y: -0.00000002002434, z: 0.0000000086156, w: 0.9185837}
+  m_LocalPosition: {x: 7.95, y: 4.24483, z: 1.0299997}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -9411,7 +9410,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_BindingMode: 4
-  m_FollowOffset: {x: 0, y: 4.61, z: -2.14}
+  m_FollowOffset: {x: 0, y: 2.64, z: -2.5}
   m_XDamping: 0
   m_YDamping: 1
   m_ZDamping: 1
@@ -12649,8 +12648,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1875971041}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.53802717, y: -0.00000000416528, z: 0.000000002658632, w: 0.8429275}
-  m_LocalPosition: {x: 7.95, y: 6.2148304, z: 1.3899996}
+  m_LocalRotation: {x: 0.39522654, y: -0.000000020024341, z: 0.000000008615601, w: 0.9185837}
+  m_LocalPosition: {x: 7.95, y: 4.24483, z: 1.0299997}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13415,7 +13414,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1990292237
 Transform:
   m_ObjectHideFlags: 0
@@ -13425,7 +13424,7 @@ Transform:
   m_GameObject: {fileID: 1990292236}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0, z: 5.68}
+  m_LocalPosition: {x: -0, y: 0, z: 3.42}
   m_LocalScale: {x: 1, y: 1, z: 10.551}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13460,8 +13459,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"currentMaterial","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"currentMaterial","value":{"$content":[null],"$type":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"},"typeHandle":{"Identification":"System.Collections.Generic.List`1[[UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]],
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!65 &1990292240
 BoxCollider:
@@ -17390,11 +17391,11 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1875971044}
+  - {fileID: 44974349}
+  - {fileID: 5522882148122884909}
   - {fileID: 1394232684}
   - {fileID: 543450652007793686}
-  - {fileID: 5522882148122884909}
   - {fileID: 226133102}
-  - {fileID: 44974349}
   - {fileID: 934605813}
   - {fileID: 3110023438788916730}
   - {fileID: 912126380}
