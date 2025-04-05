@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - BREAD
+  - bread
+  - cheese
+  - exitCheck
   layers:
   - Default
   - TransparentFX
