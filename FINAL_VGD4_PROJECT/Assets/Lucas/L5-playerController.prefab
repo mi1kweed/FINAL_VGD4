@@ -124,7 +124,7 @@ GameObject:
   - component: {fileID: 2126548928895421865}
   m_Layer: 0
   m_Name: L5-playerController
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
