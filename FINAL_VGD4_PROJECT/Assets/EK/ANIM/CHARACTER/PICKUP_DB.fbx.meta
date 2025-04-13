@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7c63e6f7f4a8a9248b579b5955066a4d
+guid: 925bbaabd55150c45bb8ebc0bdc94d5a
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -33,18 +33,18 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: IDLE
+      name: PICKUP
       takeName: Take 001
       internalID: 1827226128182048838
-      firstFrame: 259
-      lastFrame: 545
+      firstFrame: 1827
+      lastFrame: 1923
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
@@ -128,7 +128,7 @@ ModelImporter:
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 1
+  avatarSetup: 0
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
