@@ -30014,7 +30014,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4229152600135546556}
-  m_Mesh: {fileID: 7722747315903487338, guid: 1300725cc32d8a646b7e6ecc698340bd, type: 3}
+  m_Mesh: {fileID: 6559932801383998556, guid: 7c63e6f7f4a8a9248b579b5955066a4d, type: 3}
 --- !u!4 &543450652007793686
 Transform:
   m_ObjectHideFlags: 0
@@ -30459,9 +30459,6 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: -4355465856821944482, guid: 1300725cc32d8a646b7e6ecc698340bd, type: 3}
-  - {fileID: -1279756854137907919, guid: 1300725cc32d8a646b7e6ecc698340bd, type: 3}
-  - {fileID: 5694367045841744972, guid: 1300725cc32d8a646b7e6ecc698340bd, type: 3}
-  - {fileID: -4812223252771378772, guid: 1300725cc32d8a646b7e6ecc698340bd, type: 3}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -31293,6 +31290,7 @@ GameObject:
   - component: {fileID: 7387937498553721883}
   - component: {fileID: 575903974}
   - component: {fileID: 7387937498553721884}
+  - component: {fileID: 7387937498553721885}
   m_Layer: 9
   m_Name: Player Controller
   m_TagString: Player
@@ -32207,6 +32205,27 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4478410107231329015}
   m_Enabled: 1
+--- !u!95 &7387937498553721885
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4478410107231329015}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 7c63e6f7f4a8a9248b579b5955066a4d, type: 3}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!114 &7422004916572476796
 MonoBehaviour:
   m_ObjectHideFlags: 0
