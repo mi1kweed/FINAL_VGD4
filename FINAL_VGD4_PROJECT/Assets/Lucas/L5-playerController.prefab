@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 5404066345548924340}
   - component: {fileID: 9029930699114236433}
   - component: {fileID: 6535907685266210523}
-  - component: {fileID: 7384022762355908101}
   m_Layer: 0
   m_Name: retoppedRigged_LP
   m_TagString: Untagged
@@ -87,29 +86,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!136 &7384022762355908101
-CapsuleCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4734630217747144462}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Radius: 0.66
-  m_Height: 0.57809496
-  m_Direction: 1
-  m_Center: {x: 0, y: 0.00000002980233, z: 0}
 --- !u!1 &4981751649712436037
 GameObject:
   m_ObjectHideFlags: 0
@@ -122,6 +98,7 @@ GameObject:
   - component: {fileID: 2430416689527847269}
   - component: {fileID: 5338089259680470215}
   - component: {fileID: 2126548928895421865}
+  - component: {fileID: 729549919005576049}
   m_Layer: 0
   m_Name: L5-playerController
   m_TagString: Player
@@ -211,6 +188,27 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: a2ea958cb8bf82542b7906e6857b8384, type: 2}
+--- !u!65 &729549919005576049
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4981751649712436037}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1.1456524, z: 0.57063186}
+  m_Center: {x: 0, y: -0.07282621, z: 0.0032086372}
 --- !u!1 &5783900239635231908
 GameObject:
   m_ObjectHideFlags: 0
