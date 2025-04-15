@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 996398964792851272}
   - component: {fileID: 59725455167659500}
   - component: {fileID: -653668860171501519}
-  - component: {fileID: 1621984177932418998}
-  - component: {fileID: 6972148582555480313}
-  - component: {fileID: -6184257457836474230}
+  - component: {fileID: -4382201974782104273}
+  - component: {fileID: -152032242929782961}
+  - component: {fileID: -4197080919954807119}
   m_Layer: 0
   m_Name: Dorothy_Prefab
   m_TagString: Enemy
@@ -46,7 +46,7 @@ NavMeshAgent:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2957174384397309816}
   m_Enabled: 1
-  m_AgentTypeID: -515339236
+  m_AgentTypeID: 0
   m_Radius: 0.5
   m_Speed: 1
   m_Acceleration: 8
@@ -136,15 +136,28 @@ CapsuleCollider:
   m_Height: 1
   m_Direction: 1
   m_Center: {x: 0, y: 0, z: 0}
---- !u!33 &1621984177932418998
-MeshFilter:
+--- !u!95 &-4382201974782104273
+Animator:
+  serializedVersion: 5
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2957174384397309816}
-  m_Mesh: {fileID: -841214217907616943, guid: 7345a44cd36e297459e84b4e76435eb5, type: 3}
---- !u!114 &6972148582555480313
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 9bb5ab3b27c1ba049a25cf7e998771df, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-152032242929782961
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -159,7 +172,7 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
---- !u!114 &-6184257457836474230
+--- !u!114 &-4197080919954807119
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
