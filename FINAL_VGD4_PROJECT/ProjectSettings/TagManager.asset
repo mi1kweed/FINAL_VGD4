@@ -9,6 +9,9 @@ TagManager:
   - cheese
   - exitCheck
   - environment
+  - Enemy
+  - damage1
+  - heal100
   layers:
   - Default
   - TransparentFX
