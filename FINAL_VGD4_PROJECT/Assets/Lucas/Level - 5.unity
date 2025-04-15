@@ -933,6 +933,60 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0f021e6611fd1af4c86de0c0fce17f13, type: 3}
+--- !u!1 &67235405 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2957174384397309816, guid: 3f2ab933029f350469016becf219d1f3,
+    type: 3}
+  m_PrefabInstance: {fileID: 514410839}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &67235408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 67235405}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Player","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Damage","value":{"$content":10,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!33 &67235412
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 67235405}
+  m_Mesh: {fileID: -841214217907616943, guid: d21d480e6002fa7438314d64d844419f, type: 3}
+--- !u!136 &67235413
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 67235405}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 1
+  m_Direction: 1
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &69617287
 GameObject:
   m_ObjectHideFlags: 0
@@ -4396,20 +4450,32 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dorothy_Sharing
       objectReference: {fileID: 0}
+    - target: {fileID: 2957174384397309816, guid: 3f2ab933029f350469016becf219d1f3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3371442011256128737, guid: 3f2ab933029f350469016becf219d1f3,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"Player","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"Damage","value":{"$content":10,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     - target: {fileID: 7505834923886622574, guid: 3f2ab933029f350469016becf219d1f3,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.517898
+      value: 5.75
       objectReference: {fileID: 0}
     - target: {fileID: 7505834923886622574, guid: 3f2ab933029f350469016becf219d1f3,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.00000071525574
+      value: 0.214
       objectReference: {fileID: 0}
     - target: {fileID: 7505834923886622574, guid: 3f2ab933029f350469016becf219d1f3,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -47.67952
+      value: -49.94
       objectReference: {fileID: 0}
     - target: {fileID: 7505834923886622574, guid: 3f2ab933029f350469016becf219d1f3,
         type: 3}
@@ -4446,10 +4512,27 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8074526277077295897, guid: 3f2ab933029f350469016becf219d1f3,
+        type: 3}
+      propertyPath: m_AgentTypeID
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2957174384397309816, guid: 3f2ab933029f350469016becf219d1f3,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 67235408}
+    - targetCorrespondingSourceObject: {fileID: 2957174384397309816, guid: 3f2ab933029f350469016becf219d1f3,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 67235412}
+    - targetCorrespondingSourceObject: {fileID: 2957174384397309816, guid: 3f2ab933029f350469016becf219d1f3,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 67235413}
   m_SourcePrefab: {fileID: 100100000, guid: 3f2ab933029f350469016becf219d1f3, type: 3}
 --- !u!1001 &522503527
 PrefabInstance:
@@ -6489,6 +6572,13 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3780811863553114739, guid: 8702c26b78e22d64882370b4db7b1e07,
+        type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"DamageAmount","value":{"$content":5,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"DamageTriggered?","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 6171411191022777853, guid: 8702c26b78e22d64882370b4db7b1e07,
         type: 3}
