@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 60495a704e170804e85b031fe14f0d0f
+guid: c661ee830f66aa843a366abd93eb0906
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -33,7 +33,7 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Richie_Idle
+      name: MSTR_RichieIdle
       takeName: Take 001
       internalID: 1827226128182048838
       firstFrame: 0

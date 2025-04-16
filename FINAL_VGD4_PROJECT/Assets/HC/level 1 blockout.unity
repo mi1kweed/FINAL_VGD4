@@ -10585,22 +10585,6 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 1966551375}
   m_PrefabAsset: {fileID: 0}
---- !u!111 &1722417545
-Animation:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1722417543}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Animation: {fileID: 1827226128182048838, guid: 60495a704e170804e85b031fe14f0d0f,
-    type: 3}
-  m_Animations: []
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_CullingType: 0
 --- !u!95 &1722417546
 Animator:
   serializedVersion: 5
@@ -10610,8 +10594,8 @@ Animator:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1722417543}
   m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Avatar: {fileID: 9000000, guid: 60495a704e170804e85b031fe14f0d0f, type: 3}
+  m_Controller: {fileID: 9100000, guid: 61ad50727bbc8704fa4c3c0623f2115f, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -11646,7 +11630,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 60495a704e170804e85b031fe14f0d0f,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 14.526
+      value: 8.87
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 60495a704e170804e85b031fe14f0d0f,
         type: 3}
@@ -11656,7 +11640,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 60495a704e170804e85b031fe14f0d0f,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 2.253
+      value: 4.78
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 60495a704e170804e85b031fe14f0d0f,
         type: 3}
@@ -11706,10 +11690,6 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 1722417546}
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 60495a704e170804e85b031fe14f0d0f,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1722417545}
   m_SourcePrefab: {fileID: 100100000, guid: 60495a704e170804e85b031fe14f0d0f, type: 3}
 --- !u!1 &1971353984
 GameObject:
