@@ -11,9 +11,10 @@ GameObject:
   - component: {fileID: 7034528871320061716}
   - component: {fileID: 853213801946461565}
   - component: {fileID: -1893805047871639932}
+  - component: {fileID: -7949849589519755912}
   m_Layer: 0
   m_Name: GreenFrog
-  m_TagString: Untagged
+  m_TagString: Objectable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -67,6 +68,27 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: ec93b065b92c79c4b9624481b661b8d3, type: 2}
+--- !u!65 &-7949849589519755912
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2136896320556475045}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 27.02352, y: 13.942686, z: 28.912222}
+  m_Center: {x: 0.7211997, y: 6.4713416, z: 0.8411205}
 --- !u!1001 &1760818152073801731
 PrefabInstance:
   m_ObjectHideFlags: 0
